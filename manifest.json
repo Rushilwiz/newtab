@@ -1,0 +1,11 @@
+{
+	"name": "rushilwiz's newtab",
+	"version": "4.20",
+	"description": "It's my newtab!",
+  "permissions" : ["management"],
+  "chrome_url_overrides" : {
+    "newtab": "newtab.html"
+  },
+
+	"manifest_version": 2
+}
